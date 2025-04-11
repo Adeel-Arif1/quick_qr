@@ -1,16 +1,29 @@
-# quick_qr
+# Quick QR 🚀
 
-A new Flutter project.
+Quick QR is a Flutter application for generating and scanning QR codes with a sleek UI.
 
-## Getting Started
+## ✨ Features
+- Generate QR codes for:
+  - Text
+  - URLs
+  - Wi-Fi
+  - Contact info
+  - Social Media links
+- Scan QR codes with a custom scanner
+- History tracking
+- Stylish UI with glowing navigation
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
+- Flutter SDK installed
+- Android Studio or VS Code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run Locally
+```bash
+git clone https://github.com/Adeel-Arif1/quick_qr.git
+cd quick_qr
+flutter pub get
+flutter run
